@@ -8,7 +8,7 @@ Make sure you have already installed:
 ```
 ### Here is what you're looking for!
 
-File: [recsys_movie-recommender.ipynb](https://github.com/naufalhilmiaji/recsys-movie_recommendation/blob/main/recsys-movie_recommender.ipynb)
+File: [recsys_movie-recommender.ipynb](https://github.com/naufalhilmiaji/recsys_movie-recommendation/blob/main/recsys_movie-recommender.ipynb)
 
 ### Author
 #### _Naufal Hilmiaji_
